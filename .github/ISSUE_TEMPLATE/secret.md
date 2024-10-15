@@ -2,7 +2,7 @@
 name: Custom Issue Secret template
 about: Upload Issues with secrets
 title: "[DATE]: [Issue name]"
-labels: test
+labels: ''
 assignees: marianzarg
 
 ---
